@@ -131,7 +131,7 @@ MonoBehaviour:
   m_MinSize: {x: 579, y: 221}
   m_MaxSize: {x: 12004, y: 4021}
   vertical: 0
-  controlID: 124
+  controlID: 17
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -156,7 +156,7 @@ MonoBehaviour:
   m_MinSize: {x: 579, y: 492}
   m_MaxSize: {x: 12004, y: 14042}
   vertical: 1
-  controlID: 123
+  controlID: 16
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -440,9 +440,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 64.95385, y: 16.13466, z: 56.28018}
+    m_Target: {x: 34.248016, y: 11.066689, z: 30.944101}
     speed: 2
-    m_Value: {x: 64.95385, y: 16.13466, z: 56.28018}
+    m_Value: {x: 34.248016, y: 11.066689, z: 30.944101}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -488,13 +488,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.020752098, y: -0.9809917, z: 0.14835575, w: 0.12589797}
+    m_Target: {x: -0.003485076, y: -0.90567243, z: -0.011282701, w: 0.4245921}
     speed: 2
-    m_Value: {x: 0.020934038, y: -0.9804567, z: 0.14977954, w: 0.12582678}
+    m_Value: {x: -0.0028330467, y: -0.90602505, z: -0.009924843, w: 0.42309815}
   m_Size:
-    m_Target: 15.118495
+    m_Target: 39.795742
     speed: 2
-    m_Value: 15.830885
+    m_Value: 41.670933
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -512,7 +512,7 @@ MonoBehaviour:
     m_FarClip: 10000
     m_DynamicClip: 1
     m_OcclusionCulling: 0
-  m_LastSceneViewRotation: {x: -0.0069074314, y: 0.97719514, z: -0.21012983, w: -0.031955905}
+  m_LastSceneViewRotation: {x: 0.08720682, y: -0.81434613, z: 0.12361894, w: 0.56088257}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
@@ -648,19 +648,19 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes/New Folder
+    - Assets/mat/Materials
   m_ViewMode: 1
   m_StartGridSize: 37
   m_LastFolders:
-  - Assets/Scenes/New Folder
+  - Assets/mat/Materials
   m_LastFoldersGridSize: 37
   m_LastProjectPath: C:\Users\peyto\Documents\game essentials\nina nightmare
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: c6350000
-    m_LastClickedID: 13766
+    m_SelectedIDs: b4350000
+    m_LastClickedID: 13748
     m_ExpandedIDs: 00000000a0350000a2350000a435000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -774,8 +774,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 32}
-      m_SelectedIDs: baf6ffff
-      m_LastClickedID: -2374
+      m_SelectedIDs: 32f1ffff
+      m_LastClickedID: -3790
       m_ExpandedIDs: 6efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
