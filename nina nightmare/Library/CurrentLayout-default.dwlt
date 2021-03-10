@@ -178,8 +178,13 @@ MonoBehaviour:
   m_MinSize: {x: 376, y: 121}
   m_MaxSize: {x: 8001, y: 4021}
   vertical: 0
+<<<<<<< HEAD
   controlID: 125
 --- !u!114 &8
+=======
+  controlID: 17
+--- !u!114 &6
+>>>>>>> parent of ef3dac0... FF
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -203,8 +208,13 @@ MonoBehaviour:
   m_MinSize: {x: 376, y: 242}
   m_MaxSize: {x: 8001, y: 8042}
   vertical: 1
+<<<<<<< HEAD
   controlID: 17
 --- !u!114 &9
+=======
+  controlID: 16
+--- !u!114 &7
+>>>>>>> parent of ef3dac0... FF
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -487,9 +497,15 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
     m_Target: {x: 68.483376, y: 5.729167, z: 56.206757}
     speed: 2
     m_Value: {x: 68.483376, y: 5.729167, z: 56.206757}
+=======
+    m_Target: {x: 34.248016, y: 11.066689, z: 30.944101}
+    speed: 2
+    m_Value: {x: 34.248016, y: 11.066689, z: 30.944101}
+>>>>>>> parent of ef3dac0... FF
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -535,6 +551,7 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
+<<<<<<< HEAD
     m_Target: {x: 0.0065536024, y: -0.9744499, z: 0.22486109, w: 0.024935592}
     speed: 2
     m_Value: {x: 0.0065510487, y: -0.9740702, z: 0.22477347, w: 0.024925876}
@@ -542,6 +559,15 @@ MonoBehaviour:
     m_Target: 42.734184
     speed: 2
     m_Value: 42.734184
+=======
+    m_Target: {x: -0.003485076, y: -0.90567243, z: -0.011282701, w: 0.4245921}
+    speed: 2
+    m_Value: {x: -0.0028330467, y: -0.90602505, z: -0.009924843, w: 0.42309815}
+  m_Size:
+    m_Target: 39.795742
+    speed: 2
+    m_Value: 41.670933
+>>>>>>> parent of ef3dac0... FF
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -559,7 +585,7 @@ MonoBehaviour:
     m_FarClip: 10000
     m_DynamicClip: 1
     m_OcclusionCulling: 0
-  m_LastSceneViewRotation: {x: 0.16026984, y: -0.746146, z: 0.19151448, w: 0.61772776}
+  m_LastSceneViewRotation: {x: 0.08720682, y: -0.81434613, z: 0.12361894, w: 0.56088257}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
@@ -706,9 +732,15 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: f0370000
     m_LastClickedID: 14320
     m_ExpandedIDs: 00000000ee370000f0370000f237000000ca9a3b
+=======
+    m_SelectedIDs: b4350000
+    m_LastClickedID: 13748
+    m_ExpandedIDs: 00000000a0350000a2350000a435000000ca9a3b
+>>>>>>> parent of ef3dac0... FF
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -736,7 +768,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000ee370000f0370000f2370000
+=======
+    m_ExpandedIDs: 00000000a0350000a2350000a4350000
+>>>>>>> parent of ef3dac0... FF
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -820,9 +856,15 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
+<<<<<<< HEAD
       scrollPos: {x: 0, y: 272}
       m_SelectedIDs: 
       m_LastClickedID: 0
+=======
+      scrollPos: {x: 0, y: 32}
+      m_SelectedIDs: 32f1ffff
+      m_LastClickedID: -3790
+>>>>>>> parent of ef3dac0... FF
       m_ExpandedIDs: 6efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
